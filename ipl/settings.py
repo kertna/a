@@ -84,7 +84,7 @@ WSGI_APPLICATION = 'ipl.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'btpipldb2',
+        'NAME': 'ikertna',
         'CLIENT': {
            'host': 'localhost:27017',
         }
